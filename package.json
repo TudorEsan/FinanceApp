@@ -1,0 +1,11 @@
+{
+  "name": "financeapp",
+  "version": "1.0.0",
+  "description": "An app that keeps track of your money and investments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tudor Esan",
+  "license": "MIT"
+}
