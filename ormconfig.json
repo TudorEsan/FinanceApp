@@ -1,0 +1,11 @@
+{
+    "name": "default",
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "tudoresan",
+    "password": "",
+    "database": "FinanceApp",
+    "synchronize": true,
+    "entities": ["src/entity/*.*"]
+  }
